@@ -56,7 +56,7 @@ public class PrePostSteps {
 					capabilities.setCapability("platformVersion","8.0");
 					capabilities.setCapability("newCommandTimeout",600);
 					capabilities.setCapability("androidInstallTimeout",300);
-					capabilities.setCapability("app","C:\\Users\\subodha\\Downloads\\CoCoin\\CoCoin.apk");
+					capabilities.setCapability("app","C:\\CoCoin\\CoCoin.apk");
 		            driver = new AppiumDriver(new URL("http://localhost:4723/wd/hub"), capabilities);
 				}
 				break;
