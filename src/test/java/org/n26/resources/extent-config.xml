@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extentreports>
+    <configuration>
+        <theme>standard</theme>
+        <encoding>UTF-8</encoding>
+        <documentTitle>N26 Automation</documentTitle>
+        <reportName>N26 Automation Result</reportName>
+        <testViewChartLocation>bottom</testViewChartLocation>
+    </configuration>
+</extentreports>
