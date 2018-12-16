@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="N26TestSuite" duration-ms="184968" started-at="2018-12-16T19:18:09Z" finished-at="2018-12-16T19:21:14Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:org.n26.resources.N26AutomationRunner@4232c52b]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="N26Automation" duration-ms="184968" started-at="2018-12-16T19:18:09Z" finished-at="2018-12-16T19:21:14Z">
+      <class name="org.n26.resources.N26AutomationRunner">
+        <test-method status="PASS" signature="start()[pri:0, instance:org.n26.resources.N26AutomationRunner@4232c52b]" name="start" is-config="true" duration-ms="10" started-at="2018-12-16T19:18:09Z" finished-at="2018-12-16T19:18:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:org.n26.resources.N26AutomationRunner@4232c52b]" name="setUpClass" is-config="true" duration-ms="346" started-at="2018-12-16T19:18:09Z" finished-at="2018-12-16T19:18:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.n26.resources.N26AutomationRunner@4232c52b]" name="beforeMethod" is-config="true" duration-ms="18611" started-at="2018-12-16T19:18:10Z" finished-at="2018-12-16T19:18:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:org.n26.resources.N26AutomationRunner@4232c52b]" name="feature" duration-ms="3504" started-at="2018-12-16T19:18:28Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2018-12-16T19:18:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Create a Category and verify]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.n26.resources.N26AutomationRunner@4232c52b]" name="afterMethod" is-config="true" duration-ms="4591" started-at="2018-12-16T19:18:32Z" finished-at="2018-12-16T19:18:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.n26.resources.N26AutomationRunner@4232c52b]" name="beforeMethod" is-config="true" duration-ms="17222" started-at="2018-12-16T19:18:36Z" finished-at="2018-12-16T19:18:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:org.n26.resources.N26AutomationRunner@4232c52b]" name="feature" duration-ms="66745" started-at="2018-12-16T19:18:54Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2018-12-16T19:20:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile Application Verification]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.n26.resources.N26AutomationRunner@4232c52b]" name="afterMethod" is-config="true" duration-ms="5807" started-at="2018-12-16T19:20:00Z" finished-at="2018-12-16T19:20:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.n26.resources.N26AutomationRunner@4232c52b]" name="beforeMethod" is-config="true" duration-ms="17600" started-at="2018-12-16T19:20:06Z" finished-at="2018-12-16T19:20:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:org.n26.resources.N26AutomationRunner@4232c52b]" name="feature" duration-ms="118" started-at="2018-12-16T19:20:24Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2018-12-16T19:20:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Create a Product and verify]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.n26.resources.N26AutomationRunner@4232c52b]" name="afterMethod" is-config="true" duration-ms="5761" started-at="2018-12-16T19:20:24Z" finished-at="2018-12-16T19:20:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.n26.resources.N26AutomationRunner@4232c52b]" name="beforeMethod" is-config="true" duration-ms="17505" started-at="2018-12-16T19:20:30Z" finished-at="2018-12-16T19:20:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:org.n26.resources.N26AutomationRunner@4232c52b]" name="feature" duration-ms="145" started-at="2018-12-16T19:20:47Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2018-12-16T19:20:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Create a Service and verify]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.n26.resources.N26AutomationRunner@4232c52b]" name="afterMethod" is-config="true" duration-ms="4025" started-at="2018-12-16T19:20:47Z" finished-at="2018-12-16T19:20:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.n26.resources.N26AutomationRunner@4232c52b]" name="beforeMethod" is-config="true" duration-ms="17324" started-at="2018-12-16T19:20:51Z" finished-at="2018-12-16T19:21:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:org.n26.resources.N26AutomationRunner@4232c52b]" name="feature" duration-ms="104" started-at="2018-12-16T19:21:09Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2018-12-16T19:21:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Create a Store and verify]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.n26.resources.N26AutomationRunner@4232c52b]" name="afterMethod" is-config="true" duration-ms="4505" started-at="2018-12-16T19:21:09Z" finished-at="2018-12-16T19:21:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:org.n26.resources.N26AutomationRunner@4232c52b]" name="tearDownClass" is-config="true" duration-ms="931" started-at="2018-12-16T19:21:13Z" finished-at="2018-12-16T19:21:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:org.n26.resources.N26AutomationRunner@4232c52b]" name="setup" is-config="true" duration-ms="94" started-at="2018-12-16T19:21:14Z" finished-at="2018-12-16T19:21:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- org.n26.resources.N26AutomationRunner -->
+    </test> <!-- N26Automation -->
+  </suite> <!-- N26TestSuite -->
+</testng-results>
