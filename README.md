@@ -20,4 +20,4 @@ Using CLI:
 
 Test report can be found at : https://github.com/subodh2691/subodh-agnihotri/blob/master/test-output/N26AutomationReport.html
 
-![alt text](https://github.com/subodh2691/subodh-agnihotri/blob/master/test-output/Report.png)
+![alt text](https://github.com/subodh2691/subodh-agnihotri/tree/master/test-output/Report.png)
