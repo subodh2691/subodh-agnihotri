@@ -2,6 +2,13 @@
 
 The repository consists of eclipse maven project.
 
+Prerequisites:
+
+1. Install Android SDK. (https://developer.android.com/studio/)
+2. Install Appium. (http://appium.io/downloads.html)
+3. If you have downloaded Android Studio then open SDK manager and create an AVD with name Android8.0
+4. Place apk at location (C:\CoCoin\CoCoin.apk)
+
 How to use code:
 
 Using Eclipse:
